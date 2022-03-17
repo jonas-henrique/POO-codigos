@@ -1,7 +1,11 @@
 package POO_atividade;
 
 import java.util.Scanner;
-
+/*
+Escreva um programa que lê um número que representa o valor da carta, de um (ás) 
+a treze (rei), e outro número correspondente ao naipe (1 = ouros, 2 = paus, 3 = copas e
+4 = espadas). O programa deve imprimir o nome da carta por extenso
+*/
 public class q7 {
     public static void main(String[] args) {
         Scanner entrada = new Scanner(System.in);

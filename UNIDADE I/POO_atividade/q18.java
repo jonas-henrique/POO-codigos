@@ -1,7 +1,9 @@
 package POO_atividade;
 
 import java.util.Scanner;
-
+/*
+Verificar se um numero N é primo
+*/
 public class q18 {
     static int primo(int numero, int contador) {
         // primeiro primo = 2

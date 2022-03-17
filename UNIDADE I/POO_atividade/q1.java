@@ -8,12 +8,12 @@ A = L*L
 public class q1 {
     public static void main(String[] args) {
         Scanner entrada = new Scanner(System.in);
-        float L;
+        float l;
 
         System.out.print("Digite o valor do lado do quadrao: ");
-        L = entrada.nextFloat();
+        l = entrada.nextFloat();
 
-        float A = L*L;
-        System.out.println("Área do quadrado: "+A);
+        float a = l*l; 
+        System.out.println("Área do quadrado: "+a);
     }
 }

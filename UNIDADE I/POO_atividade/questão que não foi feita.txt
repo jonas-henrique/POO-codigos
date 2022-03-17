@@ -1,0 +1,2 @@
+Não foi feito SOMENTE a questão 19, questão recursiva com polinomio de grau n. Todas as demais foram feitas
+
